@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyBook</string>
+    <string name="consume">消费</string>
+    <string name="plan">计划</string>
+    <string name="consume_record">消费记录</string>
+    <string name="plan_list">计划列表</string>
+    <string name="exchange_rate">当前汇率为：</string>
+    <string name="totle_consume">总消费：</string>
+    <string name="approximately_equal_to">约等于</string>
+    <string name="chinese_unit">元</string>
+    <string name="japanese_unit">日元</string>
+    <string name="consume_analyze">消费分析</string>
+    <string name="currency_unit">1</string>
+    <string name="equal">=</string>
+    <string name="other">其他</string>
+    <string name="cd">碟片</string>
+    <string name="cd_machine">音响</string>
+    <string name="clothes">女装</string>
+    <string name="eat">饮食</string>
+    <string name="loading">请稍候</string>
+</resources>
